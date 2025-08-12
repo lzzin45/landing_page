@@ -1,0 +1,16 @@
+header{
+    background-color: rgb(171, 22, 190);
+}
+
+#produtos{
+    background-color: crimson;
+    height: 700px;
+}
+#culposo{
+    background-color: deeppink;
+    height: 700px;
+}
+#carro{
+    background-color: aquamarine;
+    height: 700px;
+}
